@@ -8,7 +8,7 @@
   "server": {
     "ip": "whysomrething.falixsrv.me",
     "port": 25004,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
