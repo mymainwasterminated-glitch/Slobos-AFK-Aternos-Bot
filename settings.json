@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vkt.play.hosting",
-    "port": 25004,
+    "port": 23600,
     "version": "1.21.11",
     "try-creative": false
   },
