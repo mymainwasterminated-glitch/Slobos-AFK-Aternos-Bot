@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "whysomrething.falixsrv.me",
+    "ip": "vkt.play.hosting",
     "port": 25004,
     "version": "1.21.11",
     "try-creative": false
