@@ -1,5 +1,5 @@
 {
-  "name": "67",
+  "name": "nikita",
   "bot-account": {
     "username": "67bot",
     "password": "",
@@ -57,15 +57,15 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
+    "avoidMobs": false,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
